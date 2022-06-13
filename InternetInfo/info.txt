@@ -1,0 +1,3 @@
+Program w celu edukacyjnym 
+
+Oprogramowania "D" "F" przygotowane są pod pendrive i tworzą one plik txt na partycji
